@@ -5,3 +5,8 @@ npm install -g @vue/cli
 vue init webpack {#project-name#}
 cd {#project-dir#} // if required
 npm run dev
+npm run build
+npm install bootstrap@next
+npm config set fund false --global // Not required
+npm install axios
+npm install vue-router
