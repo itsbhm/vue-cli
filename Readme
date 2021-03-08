@@ -1,0 +1,7 @@
+npm install -g npm
+node -v
+npm -v
+npm install -g @vue/cli
+vue init webpack {#project-name#}
+cd {#project-dir#} // if requied
+npm run dev
